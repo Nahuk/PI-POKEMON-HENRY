@@ -1,0 +1,11 @@
+.card{
+    background-color:rgb(250, 245, 245);
+    font-family: 'Copperplate Gothic Light';
+    color:black;
+    border: solid 5px grey;
+    border-radius: 30px;
+    width: 200px;
+    height: 230px;
+    padding-top: 20px;
+   
+}

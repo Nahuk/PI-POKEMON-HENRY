@@ -1,0 +1,31 @@
+.search-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 1px;
+    margin-top: 1px;
+    
+}
+
+.input-buscar{
+    border: 1px solid;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    border: gray solid 2px;
+    padding-left: 4px;
+    position: absolute;
+    top: 80px
+}
+
+.buscar{
+    position: absolute;
+    top: 85px;
+    right: 440px;
+    background: gray ;
+    border: 0.5px solid bisque;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+}

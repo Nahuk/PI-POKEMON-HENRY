@@ -1,0 +1,83 @@
+.back{
+    
+}
+
+.backhome{
+    height: 55px;
+    width: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background: white;
+    color: black;
+    border-radius: 20px;
+    border:#C50707 solid 2px;
+    cursor: pointer;
+    margin: 10px;
+    flex-wrap: wrap;
+    position: center;
+}
+
+.formulario{
+    padding: 5px;
+    color: black;
+    border: 3px solid;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position:relative;
+    left: 500px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    
+}
+
+.title{
+    color: red;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    margin: 20px;
+}
+
+.error{
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+}
+
+
+.type-content{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 40px;
+    width: 100px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+}
+
+.type{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.delete-type{
+    color: red;
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 4px;
+    padding-top: 1px;
+    padding-right: 4px;
+    padding-bottom: 1px;
+    cursor: pointer;
+    
+}
